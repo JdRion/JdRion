@@ -23,3 +23,15 @@
 
 
 </div>
+
+<details>
+
+<summary>발자취</summary>
+
+* 💻 K-사이버 시큐리티 챌린지 2020, 빅데이터 트랙(학생부) : 한국데이터산업진흥원장 상 (대상), 2020
+* 📚 한국정보기술학회 하계대학생 논문대회 : 은상, 2021
+* 📃 Implementation of AIoT Edge Cluster System via Distributed Deep Learning Pipeline 논문 작성, 2021
+* 🏦 KB AI Challenge : Google Cloud 상 (4위), 2022
+* ⛺ 네이버 부스트캠프 Ai tech 4기 (NLP), 2022
+  
+</details>
