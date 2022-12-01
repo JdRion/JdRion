@@ -1,16 +1,12 @@
-### Hi there 👋
-<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
-<!--
-**JdRion/JdRion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![header](https://capsule-render.vercel.app/api?type=waving&color=3776AB&height=300&section=header&text=JaeDeokLee&fontSize=90&animation=fadeIn&fontAlignY=38&&descAlignY=51&descAlign=70&fontColor=FFFFFF)
 
-Here are some ideas to get you started:
+<div align=center>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### JD's Tech Stack
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=plastic-the-badge&logo=Python&logoColor=white"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic-the-badge&logo=TensorFlow&logoColor=white">
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic-the-badge&logo=PyTorch&logoColor=white">
+<img src="https://img.shields.io/badge/PyTorch Lightning-792EE5?style=plastic-the-badge&logo=PyTorch Lightning&logoColor=white">
+
+
+</div>
