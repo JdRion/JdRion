@@ -3,7 +3,7 @@
   
 ### Hello, World! 
 
-증명하는 삶을 살고자 합니다.<br>
+도전하며 성취하는 삶을 살고자 합니다.<br>
 인공지능을 통한 비즈니스에 관심이 있습니다.
   
 <a href="mailto:ljd4636@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic-square&logo=Gmail&logoColor=white"/></a></a>
