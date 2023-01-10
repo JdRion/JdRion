@@ -32,6 +32,6 @@
 * 📚 한국정보기술학회 하계대학생 논문대회 : 은상, 2021
 * 📃 Implementation of AIoT Edge Cluster System via Distributed Deep Learning Pipeline, 2021
 * 🏦 KB AI Challenge : Google Cloud 상 (4위), 2022
-* ⛺ 네이버 커낵트 부스트캠프 AI Tech 4th (NLP), 2022
+* ⛺ 네이버 커넥트 부스트캠프 AI Tech 4th (NLP), 2022
   
 </details>
