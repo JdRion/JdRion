@@ -31,7 +31,7 @@
 * 💻 K-사이버 시큐리티 챌린지 2020, 빅데이터 트랙(학생부) : 한국데이터산업진흥원장 상 (대상), 2020
 * 📚 한국정보기술학회 하계대학생 논문대회 : 은상, 2021
 * 📃 Implementation of AIoT Edge Cluster System via Distributed Deep Learning Pipeline, 2021
-* 🏦 KB AI Challenge : Google Cloud 상 (4위), 2022
+* 🏦 KB AI Challenge : Google Cloud 상 (우수상), 2022
 * ⛺ 네이버 커넥트 부스트캠프 AI Tech 4th (NLP), 2022
   
 </details>
