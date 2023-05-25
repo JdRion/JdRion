@@ -8,7 +8,6 @@
   
 <a href="mailto:ljd4636@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic-square&logo=Gmail&logoColor=white"/></a></a>
 <a href="https://velog.io/@nellcome" rel="nofollow"><img src="https://img.shields.io/badge/Velog-20C997?style=plastic-square&logo=Velog&logoColor=white"/></a></a>
-<a href="https://www.linkedin.com/in/jae-deok-lee-7b63b6247/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic-square&logo=LinkedIn&logoColor=white"/></a></a>
   
 </div>
 
