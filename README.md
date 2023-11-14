@@ -32,5 +32,6 @@
 * 📃 Implementation of AIoT Edge Cluster System via Distributed Deep Learning Pipeline, 2021
 * 🏦 KB AI Challenge : Google Cloud 상 (우수상), 2022
 * ⛺ 네이버 커넥트 부스트캠프 AI Tech 4th (NLP), 2022
+* 🏦 KB국민은행 DATA·AI 인턴, 2023
   
 </details>
